@@ -1,1 +1,1 @@
-# Project DataCamp on Data Science Track (Project Exercise)
+# Project on Data Science Track (Project Exercise)
